@@ -1,0 +1,8 @@
+name: 'Create Menus Permission'
+type: module
+description: 'Defines permission creating menus separate from editing menus.'
+core_version_requirement: ^8 || ^9
+package: 'Administration'
+dependencies:
+  - drupal:menu_ui
+
